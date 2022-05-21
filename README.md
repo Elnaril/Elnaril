@@ -7,6 +7,7 @@
 
 Repository statistics:
 
-![files changed](https://repo-statistics.herokuapp.com/files)
-![insertions(+)](https://repo-statistics.herokuapp.com/insertions)
-![deletions(-)](https://repo-statistics.herokuapp.com/deletions)
+![files changed](https://repo-statistics.herokuapp.com/files?)
+![insertions(+)](https://repo-statistics.herokuapp.com/insertions?)
+![deletions(-)](https://repo-statistics.herokuapp.com/deletions?)
+
