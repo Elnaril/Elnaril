@@ -7,6 +7,6 @@
 
 Customers Repositories Statistics:
 
-![files changed](https://repo-statistics.herokuapp.com/files#)
-![insertions(+)](https://repo-statistics.herokuapp.com/insertions#)
-![deletions(-)](https://repo-statistics.herokuapp.com/deletions#)
+![files changed (Please, reload page)](https://repo-statistics.herokuapp.com/files#)
+![insertions(+) (Please, reload page)](https://repo-statistics.herokuapp.com/insertions#)
+![deletions(-) (Please, reload page)](https://repo-statistics.herokuapp.com/deletions#)
