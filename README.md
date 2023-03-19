@@ -7,5 +7,3 @@
 ---
 
 [![](https://github-readme-stats.vercel.app/api?username=elnaril&theme=transparent&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/Elnaril/Elnaril/)
-
-[![](https://visitcount.itsvg.in/api?id=elnaril-github&label=Profile%20Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
