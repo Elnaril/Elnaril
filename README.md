@@ -4,7 +4,7 @@
 
 [![Elnaril profile on Fiverr](https://github.com/Elnaril/uniswap-smart-path/assets/57373038/cd7c7fa0-7d6a-4d85-a468-6b379391c372)](https://www.fiverr.com/freelancers/elnaril)
 
-- 🔨 I'm the author of these 2 open-source libraries:
+- 🔨 I'm the author of these open-source libraries:
   - [Python Uniswap Universal Router SDK](https://github.com/Elnaril/uniswap-universal-router-decoder) : Easily encode and decode UR transactions.
     - Tutorial: [How to Buy a Token on the Uniswap Universal Router](https://hackernoon.com/how-to-buy-a-token-on-the-uniswap-universal-router-with-python)
     - Tutorial: [How to Use Permit2 with the Uniswap Universal Router](https://hackernoon.com/python-how-to-use-permit2-with-the-uniswap-universal-router)
