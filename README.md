@@ -10,6 +10,6 @@
     - Tutorial: [How to Use Permit2 with the Uniswap Universal Router](https://hackernoon.com/python-how-to-use-permit2-with-the-uniswap-universal-router)
   - [Python Uniswap Smart Path lib](https://github.com/Elnaril/uniswap-smart-path): Find best Uniswap V2/V3 paths (and use them with the UR SDK).
   - [Python SDK for UniswapX](https://github.com/Elnaril/python-uniswapx-sdk): Easily get, decode, verify and encode UniswapX orders.
-- ⭐⭐⭐ If you like these libraries ☝️, consider staring them! :) ⭐⭐⭐
+- ⭐⭐⭐ If you like these libraries ☝️, consider starring them! :) ⭐⭐⭐
 - [☕️☕️☕️](https://www.buymeacoffee.com/elnaril) You can also join the [**Supporter Community**](https://github.com/Elnaril/uniswap-universal-router-decoder/discussions/11)! [☕️☕️☕️](https://www.buymeacoffee.com/elnaril)
 - 📢 Announcements are posted on [𝕏](https://twitter.com/ElnarilDev) and in the [discussions](https://github.com/Elnaril/uniswap-universal-router-decoder/discussions/categories/announcements): Consider following to get the latest lib updates!
