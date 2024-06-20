@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elnaril. Nice to see you here! :)
+- 👋 Hi, I’m [Elnaril](https://gravatar.com/elnaril). Nice to see you here! :)
 - 👀 I’m interested in Python and Blockchains
 - 🖥 Freelance developer (ex-developer for top European banks), you can find more about my services on [_**Fiverr**_](https://www.fiverr.com/freelancers/elnaril):
 
