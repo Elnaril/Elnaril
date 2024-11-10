@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Elnaril](https://gravatar.com/elnaril). Nice to see you here! :)
 - 👀 I’m interested in Python and Blockchains
-- 🖥 Freelance developer (ex-developer for top European banks), you can find more about my services on [_**Fiverr**_](https://www.fiverr.com/freelancers/elnaril):
+- 🖥 Freelance developer (ex-developer for top European banks), you can find more about my services on [_**Fiverr**_](https://www.fiverr.com/freelancers/elnaril) and [_**Malt**_](https://www.malt.fr/profile/elnaril):
 
 [![Elnaril profile on Fiverr](https://github.com/Elnaril/uniswap-smart-path/assets/57373038/cd7c7fa0-7d6a-4d85-a468-6b379391c372)](https://www.fiverr.com/freelancers/elnaril)
 
