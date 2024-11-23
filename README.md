@@ -11,6 +11,7 @@
   - [Python Uniswap Smart Path lib](https://github.com/Elnaril/uniswap-smart-path): Find best Uniswap V2/V3 paths (and use them with the UR SDK).
   - [Python SDK for UniswapX](https://github.com/Elnaril/python-uniswapx-sdk): Easily get, decode, verify and encode UniswapX orders.
   - [Python Async Rate Limiter](https://github.com/Elnaril/credit-rate-limit): For API using credits/CUPS or number of requests per time unit.
+    - Tutorial: [How to rate limit Python async requests to Etherscan - and other APIs](https://elnaril.hashnode.dev/how-to-rate-limit-python-async-requests-to-etherscan-and-other-apis) 
 - ⭐⭐⭐ If you like these libraries ☝️, consider starring them! :) ⭐⭐⭐
 - [☕️☕️☕️](https://www.buymeacoffee.com/elnaril) You can also join the [**Supporter Community**](https://github.com/Elnaril/uniswap-universal-router-decoder/discussions/11)! [☕️☕️☕️](https://www.buymeacoffee.com/elnaril)
 - 📢 Announcements are posted on [𝕏](https://twitter.com/ElnarilDev) and in the [discussions](https://github.com/Elnaril/uniswap-universal-router-decoder/discussions/categories/announcements): Consider following to get the latest lib updates!
