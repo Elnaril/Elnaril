@@ -13,7 +13,7 @@
   - [Python Async Rate Limiter](https://github.com/Elnaril/credit-rate-limit): For API using credits/CUPS or number of requests per time unit.
     - Tutorial: [How to rate limit Python async requests to Etherscan - and other APIs](https://elnaril.hashnode.dev/how-to-rate-limit-python-async-requests-to-etherscan-and-other-apis)
   - [Gedit Plugins](https://github.com/Elnaril/gedit-plugin-collection):
-    - JSON Formatter: Verify, Format and Minimify JSON documents
+    - JSON Formatter: Verify, Format and Minify JSON documents
     - Prettifier: Prettify data structures
 - ⭐⭐⭐ If you like these libraries ☝️, consider starring them! :) ⭐⭐⭐
 - [☕️☕️☕️](https://www.buymeacoffee.com/elnaril) You can also join the [**Supporter Community**](https://github.com/Elnaril/uniswap-universal-router-decoder/discussions/11)! [☕️☕️☕️](https://www.buymeacoffee.com/elnaril)
