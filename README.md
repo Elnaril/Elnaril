@@ -12,6 +12,7 @@
   - [Python SDK for UniswapX](https://github.com/Elnaril/python-uniswapx-sdk): Easily get, decode, verify and encode UniswapX orders.
   - [Python Async Rate Limiter](https://github.com/Elnaril/credit-rate-limit): For API using credits/CUPS or number of requests per time unit.
     - Tutorial: [How to rate limit Python async requests to Etherscan - and other APIs](https://elnaril.hashnode.dev/how-to-rate-limit-python-async-requests-to-etherscan-and-other-apis)
+    - Tutorial: [How to rate limit async requests to credit-based APIs like Infura](https://dev.to/elnaril/python-tutorial-how-to-rate-limit-async-requests-to-credit-based-apis-ahj)
   - [Gedit Plugins](https://github.com/Elnaril/gedit-plugin-collection):
     - JSON Formatter: Verify, Format and Minify JSON documents
     - Prettifier: Prettify data structures
